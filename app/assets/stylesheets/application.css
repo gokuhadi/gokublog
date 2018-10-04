@@ -1,3 +1,13 @@
+h1{
+  
+  font-weight: bold;
+  color: #00FFFF;
+  background-color: #00FFFF;
+    text-align-last: center;
+  text-transform: uppercase  ;
+
+}
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
